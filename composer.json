@@ -1,5 +1,5 @@
 {
-    "name": "DarkerThanBlack/nginx-sites-plugin",
+    "name": "darker-than-black/nginx-sites-plugin",
     "description": "Nginx vhost creator.",
     "keywords": ["nginx", "darker"],
     "type": "composer-plugin",
