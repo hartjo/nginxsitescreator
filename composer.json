@@ -1,0 +1,10 @@
+{
+    "name": "DarkerThanBlack/nginx-sites-plugin",
+    "description": "Nginx vhost creator.",
+    "keywords": ["nginx", "darker"],
+    "type": "composer-plugin",
+    "license": "MIT",
+    "bin": [
+        "sitesavailable"
+    ]
+}
